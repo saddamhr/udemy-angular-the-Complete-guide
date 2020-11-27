@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'udemy-angular-the-Complete-guide';
+  name = "Saddam Hossain"
 }
